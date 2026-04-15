@@ -1,0 +1,20 @@
+========================================
+SA BANKING ANALYSIS REPORT
+========================================
+
+Generated: Wed Apr 15 16:31:29 2026 
+
+DATA OVERVIEW
+  Total transactions: 10000 
+  Total customers: 500 
+  Date range: 19723 to 20088 
+
+FINANCIAL SUMMARY
+  Total spend: R 2,393,556 
+  Average transaction: R 239 
+  Median transaction: R 98 
+
+DATA QUALITY
+  Missing categories filled: 0 
+  Outliers detected: 155 
+  Invalid IDs: 0 

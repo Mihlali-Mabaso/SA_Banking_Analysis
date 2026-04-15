@@ -1,0 +1,34 @@
+# R files to ignore
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Data files (too large for GitHub)
+data/*.csv
+data/*.rds
+*.csv
+*.rds
+
+# But keep the scripts that create them!
+!generate_data.R
+!create_output.R
+
+# Output files (optional - your choice)
+output/*.rds
+output/*.csv
+
+# But keep reports and plots
+!output/*.txt
+!output/*.png
+!output/*.html
+!output/*.pdf
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.out
