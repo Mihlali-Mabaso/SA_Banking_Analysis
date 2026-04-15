@@ -25,6 +25,15 @@ This project demonstrates mastery of R's apply family functions by processing re
 | `vapply()` | Validate transaction ID formats |
 | `mapply()` | Calculate monthly spending changes |
 
+## Project Status
+✅ Data generation complete  
+✅ Apply family solutions implemented  
+✅ Output reports generated  
+
+## Skills Demonstrated
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
+
 ## How to Run
 ```r
 # 1. Generate the data
